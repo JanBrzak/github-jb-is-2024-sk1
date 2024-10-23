@@ -1,0 +1,15 @@
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\is5\ispetka\ispetka\bin\Debug\net8.0\ispetka.exe
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\is5\ispetka\ispetka\bin\Debug\net8.0\ispetka.deps.json
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\is5\ispetka\ispetka\bin\Debug\net8.0\ispetka.runtimeconfig.json
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\is5\ispetka\ispetka\bin\Debug\net8.0\ispetka.dll
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\is5\ispetka\ispetka\bin\Debug\net8.0\ispetka.pdb
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\is5\ispetka\ispetka\obj\Debug\net8.0\ispetka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\is5\ispetka\ispetka\obj\Debug\net8.0\ispetka.AssemblyInfoInputs.cache
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\is5\ispetka\ispetka\obj\Debug\net8.0\ispetka.AssemblyInfo.cs
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\is5\ispetka\ispetka\obj\Debug\net8.0\ispetka.csproj.CoreCompileInputs.cache
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\is5\ispetka\ispetka\obj\Debug\net8.0\ispetka.sourcelink.json
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\is5\ispetka\ispetka\obj\Debug\net8.0\ispetka.dll
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\is5\ispetka\ispetka\obj\Debug\net8.0\refint\ispetka.dll
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\is5\ispetka\ispetka\obj\Debug\net8.0\ispetka.pdb
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\is5\ispetka\ispetka\obj\Debug\net8.0\ispetka.genruntimeconfig.cache
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\is5\ispetka\ispetka\obj\Debug\net8.0\ref\ispetka.dll

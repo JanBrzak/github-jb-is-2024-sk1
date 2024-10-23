@@ -1,0 +1,15 @@
+C:\Users\bounc\source\repos\pyramid\pyramid\obj\Debug\net8.0\pyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bounc\source\repos\pyramid\pyramid\obj\Debug\net8.0\pyramid.AssemblyInfoInputs.cache
+C:\Users\bounc\source\repos\pyramid\pyramid\obj\Debug\net8.0\pyramid.AssemblyInfo.cs
+C:\Users\bounc\source\repos\pyramid\pyramid\obj\Debug\net8.0\pyramid.csproj.CoreCompileInputs.cache
+C:\Users\bounc\source\repos\pyramid\pyramid\obj\Debug\net8.0\pyramid.sourcelink.json
+C:\Users\bounc\source\repos\pyramid\pyramid\bin\Debug\net8.0\pyramid.exe
+C:\Users\bounc\source\repos\pyramid\pyramid\bin\Debug\net8.0\pyramid.deps.json
+C:\Users\bounc\source\repos\pyramid\pyramid\bin\Debug\net8.0\pyramid.runtimeconfig.json
+C:\Users\bounc\source\repos\pyramid\pyramid\bin\Debug\net8.0\pyramid.dll
+C:\Users\bounc\source\repos\pyramid\pyramid\bin\Debug\net8.0\pyramid.pdb
+C:\Users\bounc\source\repos\pyramid\pyramid\obj\Debug\net8.0\pyramid.dll
+C:\Users\bounc\source\repos\pyramid\pyramid\obj\Debug\net8.0\refint\pyramid.dll
+C:\Users\bounc\source\repos\pyramid\pyramid\obj\Debug\net8.0\pyramid.pdb
+C:\Users\bounc\source\repos\pyramid\pyramid\obj\Debug\net8.0\pyramid.genruntimeconfig.cache
+C:\Users\bounc\source\repos\pyramid\pyramid\obj\Debug\net8.0\ref\pyramid.dll

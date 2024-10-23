@@ -1,0 +1,15 @@
+C:\Users\bounc\source\repos\obdelnik_0\obdelnik_0\bin\Debug\net8.0\obdelnik_0.exe
+C:\Users\bounc\source\repos\obdelnik_0\obdelnik_0\bin\Debug\net8.0\obdelnik_0.deps.json
+C:\Users\bounc\source\repos\obdelnik_0\obdelnik_0\bin\Debug\net8.0\obdelnik_0.runtimeconfig.json
+C:\Users\bounc\source\repos\obdelnik_0\obdelnik_0\bin\Debug\net8.0\obdelnik_0.dll
+C:\Users\bounc\source\repos\obdelnik_0\obdelnik_0\bin\Debug\net8.0\obdelnik_0.pdb
+C:\Users\bounc\source\repos\obdelnik_0\obdelnik_0\obj\Debug\net8.0\obdelnik_0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bounc\source\repos\obdelnik_0\obdelnik_0\obj\Debug\net8.0\obdelnik_0.AssemblyInfoInputs.cache
+C:\Users\bounc\source\repos\obdelnik_0\obdelnik_0\obj\Debug\net8.0\obdelnik_0.AssemblyInfo.cs
+C:\Users\bounc\source\repos\obdelnik_0\obdelnik_0\obj\Debug\net8.0\obdelnik_0.csproj.CoreCompileInputs.cache
+C:\Users\bounc\source\repos\obdelnik_0\obdelnik_0\obj\Debug\net8.0\obdelnik_0.sourcelink.json
+C:\Users\bounc\source\repos\obdelnik_0\obdelnik_0\obj\Debug\net8.0\obdelnik_0.dll
+C:\Users\bounc\source\repos\obdelnik_0\obdelnik_0\obj\Debug\net8.0\refint\obdelnik_0.dll
+C:\Users\bounc\source\repos\obdelnik_0\obdelnik_0\obj\Debug\net8.0\obdelnik_0.pdb
+C:\Users\bounc\source\repos\obdelnik_0\obdelnik_0\obj\Debug\net8.0\obdelnik_0.genruntimeconfig.cache
+C:\Users\bounc\source\repos\obdelnik_0\obdelnik_0\obj\Debug\net8.0\ref\obdelnik_0.dll
