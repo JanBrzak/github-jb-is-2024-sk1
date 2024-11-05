@@ -10,7 +10,7 @@ class Program
 
 
         if (height % 2 == 0) height--;
-        Console.WriteLine("Plny Diamond:");
+        Console.WriteLine("Plny kosocvtverec:");
         DrawFullDiamond(height);
 
         Console.WriteLine("Prazdny kosoctverec:");
