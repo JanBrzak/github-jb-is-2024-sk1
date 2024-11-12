@@ -1,0 +1,15 @@
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\Ukol 005 - minimum maximum\Ukol 005 - minimum maximum\bin\Debug\net8.0\Ukol 005 - minimum maximum.exe
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\Ukol 005 - minimum maximum\Ukol 005 - minimum maximum\bin\Debug\net8.0\Ukol 005 - minimum maximum.deps.json
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\Ukol 005 - minimum maximum\Ukol 005 - minimum maximum\bin\Debug\net8.0\Ukol 005 - minimum maximum.runtimeconfig.json
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\Ukol 005 - minimum maximum\Ukol 005 - minimum maximum\bin\Debug\net8.0\Ukol 005 - minimum maximum.dll
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\Ukol 005 - minimum maximum\Ukol 005 - minimum maximum\bin\Debug\net8.0\Ukol 005 - minimum maximum.pdb
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\Ukol 005 - minimum maximum\Ukol 005 - minimum maximum\obj\Debug\net8.0\Ukol 005 - minimum maximum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\Ukol 005 - minimum maximum\Ukol 005 - minimum maximum\obj\Debug\net8.0\Ukol 005 - minimum maximum.AssemblyInfoInputs.cache
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\Ukol 005 - minimum maximum\Ukol 005 - minimum maximum\obj\Debug\net8.0\Ukol 005 - minimum maximum.AssemblyInfo.cs
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\Ukol 005 - minimum maximum\Ukol 005 - minimum maximum\obj\Debug\net8.0\Ukol 005 - minimum maximum.csproj.CoreCompileInputs.cache
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\Ukol 005 - minimum maximum\Ukol 005 - minimum maximum\obj\Debug\net8.0\Ukol 005 - minimum maximum.sourcelink.json
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\Ukol 005 - minimum maximum\Ukol 005 - minimum maximum\obj\Debug\net8.0\Ukol 005 - minimum maximum.dll
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\Ukol 005 - minimum maximum\Ukol 005 - minimum maximum\obj\Debug\net8.0\refint\Ukol 005 - minimum maximum.dll
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\Ukol 005 - minimum maximum\Ukol 005 - minimum maximum\obj\Debug\net8.0\Ukol 005 - minimum maximum.pdb
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\Ukol 005 - minimum maximum\Ukol 005 - minimum maximum\obj\Debug\net8.0\Ukol 005 - minimum maximum.genruntimeconfig.cache
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\Ukol 005 - minimum maximum\Ukol 005 - minimum maximum\obj\Debug\net8.0\ref\Ukol 005 - minimum maximum.dll
