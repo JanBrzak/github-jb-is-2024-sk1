@@ -1,0 +1,15 @@
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\IS9\IS9\bin\Debug\net8.0\IS9.exe
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\IS9\IS9\bin\Debug\net8.0\IS9.deps.json
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\IS9\IS9\bin\Debug\net8.0\IS9.runtimeconfig.json
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\IS9\IS9\bin\Debug\net8.0\IS9.dll
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\IS9\IS9\bin\Debug\net8.0\IS9.pdb
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\IS9\IS9\obj\Debug\net8.0\IS9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\IS9\IS9\obj\Debug\net8.0\IS9.AssemblyInfoInputs.cache
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\IS9\IS9\obj\Debug\net8.0\IS9.AssemblyInfo.cs
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\IS9\IS9\obj\Debug\net8.0\IS9.csproj.CoreCompileInputs.cache
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\IS9\IS9\obj\Debug\net8.0\IS9.sourcelink.json
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\IS9\IS9\obj\Debug\net8.0\IS9.dll
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\IS9\IS9\obj\Debug\net8.0\refint\IS9.dll
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\IS9\IS9\obj\Debug\net8.0\IS9.pdb
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\IS9\IS9\obj\Debug\net8.0\IS9.genruntimeconfig.cache
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\IS9\IS9\obj\Debug\net8.0\ref\IS9.dll
