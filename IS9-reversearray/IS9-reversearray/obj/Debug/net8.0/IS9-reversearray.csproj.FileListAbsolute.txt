@@ -1,0 +1,15 @@
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\IS9-reversearray\IS9-reversearray\bin\Debug\net8.0\IS9-reversearray.exe
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\IS9-reversearray\IS9-reversearray\bin\Debug\net8.0\IS9-reversearray.deps.json
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\IS9-reversearray\IS9-reversearray\bin\Debug\net8.0\IS9-reversearray.runtimeconfig.json
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\IS9-reversearray\IS9-reversearray\bin\Debug\net8.0\IS9-reversearray.dll
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\IS9-reversearray\IS9-reversearray\bin\Debug\net8.0\IS9-reversearray.pdb
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\IS9-reversearray\IS9-reversearray\obj\Debug\net8.0\IS9-reversearray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\IS9-reversearray\IS9-reversearray\obj\Debug\net8.0\IS9-reversearray.AssemblyInfoInputs.cache
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\IS9-reversearray\IS9-reversearray\obj\Debug\net8.0\IS9-reversearray.AssemblyInfo.cs
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\IS9-reversearray\IS9-reversearray\obj\Debug\net8.0\IS9-reversearray.csproj.CoreCompileInputs.cache
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\IS9-reversearray\IS9-reversearray\obj\Debug\net8.0\IS9-reversearray.sourcelink.json
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\IS9-reversearray\IS9-reversearray\obj\Debug\net8.0\IS9-reversearray.dll
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\IS9-reversearray\IS9-reversearray\obj\Debug\net8.0\refint\IS9-reversearray.dll
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\IS9-reversearray\IS9-reversearray\obj\Debug\net8.0\IS9-reversearray.pdb
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\IS9-reversearray\IS9-reversearray\obj\Debug\net8.0\IS9-reversearray.genruntimeconfig.cache
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\IS9-reversearray\IS9-reversearray\obj\Debug\net8.0\ref\IS9-reversearray.dll

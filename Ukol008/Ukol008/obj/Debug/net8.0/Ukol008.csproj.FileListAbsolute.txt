@@ -1,0 +1,15 @@
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\Ukol008\Ukol008\bin\Debug\net8.0\Ukol008.exe
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\Ukol008\Ukol008\bin\Debug\net8.0\Ukol008.deps.json
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\Ukol008\Ukol008\bin\Debug\net8.0\Ukol008.runtimeconfig.json
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\Ukol008\Ukol008\bin\Debug\net8.0\Ukol008.dll
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\Ukol008\Ukol008\bin\Debug\net8.0\Ukol008.pdb
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\Ukol008\Ukol008\obj\Debug\net8.0\Ukol008.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\Ukol008\Ukol008\obj\Debug\net8.0\Ukol008.AssemblyInfoInputs.cache
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\Ukol008\Ukol008\obj\Debug\net8.0\Ukol008.AssemblyInfo.cs
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\Ukol008\Ukol008\obj\Debug\net8.0\Ukol008.csproj.CoreCompileInputs.cache
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\Ukol008\Ukol008\obj\Debug\net8.0\Ukol008.sourcelink.json
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\Ukol008\Ukol008\obj\Debug\net8.0\Ukol008.dll
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\Ukol008\Ukol008\obj\Debug\net8.0\refint\Ukol008.dll
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\Ukol008\Ukol008\obj\Debug\net8.0\Ukol008.pdb
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\Ukol008\Ukol008\obj\Debug\net8.0\Ukol008.genruntimeconfig.cache
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\Ukol008\Ukol008\obj\Debug\net8.0\ref\Ukol008.dll
