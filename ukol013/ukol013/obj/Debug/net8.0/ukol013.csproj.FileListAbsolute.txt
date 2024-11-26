@@ -1,0 +1,15 @@
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\ukol013\ukol013\bin\Debug\net8.0\ukol013.exe
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\ukol013\ukol013\bin\Debug\net8.0\ukol013.deps.json
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\ukol013\ukol013\bin\Debug\net8.0\ukol013.runtimeconfig.json
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\ukol013\ukol013\bin\Debug\net8.0\ukol013.dll
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\ukol013\ukol013\bin\Debug\net8.0\ukol013.pdb
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\ukol013\ukol013\obj\Debug\net8.0\ukol013.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\ukol013\ukol013\obj\Debug\net8.0\ukol013.AssemblyInfoInputs.cache
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\ukol013\ukol013\obj\Debug\net8.0\ukol013.AssemblyInfo.cs
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\ukol013\ukol013\obj\Debug\net8.0\ukol013.csproj.CoreCompileInputs.cache
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\ukol013\ukol013\obj\Debug\net8.0\ukol013.sourcelink.json
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\ukol013\ukol013\obj\Debug\net8.0\ukol013.dll
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\ukol013\ukol013\obj\Debug\net8.0\refint\ukol013.dll
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\ukol013\ukol013\obj\Debug\net8.0\ukol013.pdb
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\ukol013\ukol013\obj\Debug\net8.0\ukol013.genruntimeconfig.cache
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\ukol013\ukol013\obj\Debug\net8.0\ref\ukol013.dll

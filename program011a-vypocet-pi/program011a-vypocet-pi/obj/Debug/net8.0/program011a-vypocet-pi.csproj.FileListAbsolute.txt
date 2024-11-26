@@ -1,0 +1,15 @@
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\program011a-vypocet-pi\program011a-vypocet-pi\bin\Debug\net8.0\program011a-vypocet-pi.exe
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\program011a-vypocet-pi\program011a-vypocet-pi\bin\Debug\net8.0\program011a-vypocet-pi.deps.json
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\program011a-vypocet-pi\program011a-vypocet-pi\bin\Debug\net8.0\program011a-vypocet-pi.runtimeconfig.json
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\program011a-vypocet-pi\program011a-vypocet-pi\bin\Debug\net8.0\program011a-vypocet-pi.dll
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\program011a-vypocet-pi\program011a-vypocet-pi\bin\Debug\net8.0\program011a-vypocet-pi.pdb
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\program011a-vypocet-pi\program011a-vypocet-pi\obj\Debug\net8.0\program011a-vypocet-pi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\program011a-vypocet-pi\program011a-vypocet-pi\obj\Debug\net8.0\program011a-vypocet-pi.AssemblyInfoInputs.cache
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\program011a-vypocet-pi\program011a-vypocet-pi\obj\Debug\net8.0\program011a-vypocet-pi.AssemblyInfo.cs
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\program011a-vypocet-pi\program011a-vypocet-pi\obj\Debug\net8.0\program011a-vypocet-pi.csproj.CoreCompileInputs.cache
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\program011a-vypocet-pi\program011a-vypocet-pi\obj\Debug\net8.0\program011a-vypocet-pi.sourcelink.json
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\program011a-vypocet-pi\program011a-vypocet-pi\obj\Debug\net8.0\program011a-vypocet-pi.dll
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\program011a-vypocet-pi\program011a-vypocet-pi\obj\Debug\net8.0\refint\program011a-vypocet-pi.dll
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\program011a-vypocet-pi\program011a-vypocet-pi\obj\Debug\net8.0\program011a-vypocet-pi.pdb
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\program011a-vypocet-pi\program011a-vypocet-pi\obj\Debug\net8.0\program011a-vypocet-pi.genruntimeconfig.cache
+C:\Users\bounc\source\repos\github-jb-is-2024-sk1\program011a-vypocet-pi\program011a-vypocet-pi\obj\Debug\net8.0\ref\program011a-vypocet-pi.dll
